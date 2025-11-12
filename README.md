@@ -1,4 +1,6 @@
 <div align="center">
-    <h1>MySQL Backup Script</h1>
-    <p>MySQL Backup API Service with SSH</p>
+    <a>
+        <img src="./cover.png"/>
+    </a>
+    <h3>MySQL Backup Script (SSH)</h3>
 </div>
