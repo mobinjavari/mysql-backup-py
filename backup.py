@@ -4,7 +4,7 @@ import os
 
 class mysql_backup:
     _last_backup_file = None
-    _backup_dir = '/home/mysql_bakup'
+    _backup_dir = '/home/mysql_backup'
 
     @staticmethod
     def print_log(text):
